@@ -47,3 +47,21 @@ while True:
         print("Invalid action. Please enter 'deposit', 'withdraw', or 'exit'.")
 
 print(f"Final balance is {account.balance:}")
+
+
+# OUTPUT
+
+# Enter account number: 7736965195
+# Enter account holder name: UNNIKRISHNAN H
+# Enter initial balance: 1000000
+# Enter 'deposit' to deposit money, 'withdraw' to withdraw money, or 'exit' to quit: DEPOSIT
+# Enter amount to deposit: 500000
+# Deposited  500000.0. New balance is  1500000.0.
+# Enter 'deposit' to deposit money, 'withdraw' to withdraw money, or 'exit' to quit: WITHDRAW
+# Enter amount to withdraw: 1000000
+# [ ]
+
+
+
+
+
